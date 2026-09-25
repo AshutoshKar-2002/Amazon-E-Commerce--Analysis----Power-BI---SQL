@@ -1,5 +1,6 @@
 # AMAZON-E-COMMERCE-ANALYSIS--POWER-BI
-<img width="1666" height="970" alt="amazon_ecommerce_title" src="https://github.com/user-attachments/assets/ac87a771-bbbe-4744-8e30-8caf3d1e0cd6" />
+<img width="1666" height="970" alt="amazon_title_v_decision" src="https://github.com/user-attachments/assets/31a1fc90-81b4-459c-8a88-5f8e15836516" />
+
 
 
 ## 📊 Amazon E-Commerce Analysis using Power BI
